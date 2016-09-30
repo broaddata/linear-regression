@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1475129591225.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "312ECF5A",
+    "lastKnownWriteTime" : 18296075356274804,
+    "last_content_update" : 1475129591225,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "x58ewz7z5g",
+        "caption" : "states.info",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=states.info&cache_key=x58ewz7z5g",
+        "displayedObservations" : 21,
+        "environment" : "",
+        "object" : "states.info",
+        "totalObservations" : 21,
+        "variables" : 2
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
